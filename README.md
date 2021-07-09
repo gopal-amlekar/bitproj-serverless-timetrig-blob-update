@@ -22,3 +22,7 @@ For a `TimerTrigger` to work, you provide a schedule in the form of a [cron expr
 
 ## Learn more
 
+https://cataas.com/#/
+https://www.npmjs.com/package/@azure/storage-blob
+https://crontab.guru/
+
