@@ -1,8 +1,6 @@
 # Bit project serverless camp
 This repo contains some sample code as part of pair programming exercises done in the mentoring sessions with my mentee.
 
-# Cat image blob trigger
-
 This is Week 3 pair programming exercise. It runs an Azure function periodically on a timer trigger, downloads a cat image from https://cataas.com using their API, then uploads the image to Azure blob storage with a new name.
 
 The `TimerTrigger` makes it incredibly easy to have your functions executed on a schedule. 
